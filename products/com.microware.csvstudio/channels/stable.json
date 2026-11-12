@@ -1,10 +1,10 @@
 {
-  "version": "0.2.1",
-  "notes": "CSV Studio 0.2.1 — Windows preview. This installer is not publisher signed.",
+  "version": "0.2.2",
+  "notes": "CSV Studio 0.2.2 — Windows preview. This installer is not publisher signed.",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/brandflowr/microWare-distribution/releases/download/com.microware.csvstudio-v0.2.1/installer.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY3hTb0hFS2dKYmdsbjI5NmtkSTlObGxCNmxVYU4zTnVIVEptdk1FWWp0K2poUU95Vm5wRU5aN21MT3hmTFdndjFtdURKdjRla25LMG55QVNRTHdLNDE3blY0T0tveVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDQ4MjE1CWZpbGU6Q1NWIFN0dWRpb18wLjIuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjEKZnQvSm56M1FYbDlBSGpLMlNtR3orZjJmOTNDNE9GWDZFMmJXRDJRaUQwNFdnanoycUdXTEVmK0d3bENhWXNCQ3hiQkUwOWs0bUE1WHI3a3JhcEwwQ2c9PQo="
+      "url": "https://github.com/brandflowr/microWare-distribution/releases/download/com.microware.csvstudio-v0.2.2/installer.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY3hTb0hFS2dKYm9rVmpzL29YMStvVkpZT1lFSnpQZFhmSTQ2TXNpVkN6M2xnZjlkVGU1ODZYV2NrRE5zUy91UFRsYjVIN0RtcnEwWHpBKyt2aGc2NXk1cXNYUllYL2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDUwNjYyCWZpbGU6Q1NWIFN0dWRpb18wLjIuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjIKV2w1a0tnYUFjajhjbWpKeEFnVWxGRFdhRWNZNzM1U3VqeHVvV3ZUM1lsVHFQeGhzZ1BPc0F1Q2ZFdXFvVFViVmQyMEtQaktoRzJXR2lIc1NCTXkrRFE9PQo="
     }
   }
 }
