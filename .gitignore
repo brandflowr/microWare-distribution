@@ -1,0 +1,7 @@
+*.key
+*.key.pub
+.env*
+*.exe
+*.msi
+*.log
+node_modules/

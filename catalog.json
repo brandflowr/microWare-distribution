@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "products": [
+    { "id": "com.microware.csvstudio", "name": "CSV Studio", "channel": "stable", "manifest": "products/com.microware.csvstudio/channels/stable.json" },
+    { "id": "com.microware.control", "name": "microWare Control", "channel": "stable", "manifest": "products/com.microware.control/channels/stable.json" },
+    { "id": "com.genlock.studio", "name": "Genlock Studio", "channel": "stable-v1", "manifest": "products/com.genlock.studio/channels/stable-v1.json" }
+  ]
+}
