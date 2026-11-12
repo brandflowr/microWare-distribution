@@ -1,0 +1,10 @@
+{
+  "version": "1.1.1",
+  "notes": "Genlock Studio 1.1.1 — Windows preview. This installer is not publisher signed.",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/brandflowr/microWare-distribution/releases/download/com.genlock.studio-v1.1.1/installer.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQ3YzUm1VcXljU2NXYXM1K0JsSk1kWUMyM0dXUkM2VkRJSWYwUlBJaUNaZmg3bjlIWFlub3pmMXA5TEhxTlVRSytmV3pQeHlqSm5xNGRKL1JUZjlkZVNVRnNmbEI0bndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDU0MTc3CWZpbGU6R2VubG9jayBTdHVkaW9fMS4xLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMS4xClZVTmYxWXhhdTZvRHBPTURHbGZxeU1oUXp4NE9HclpkZm56SGk0cm9TMEgwSE0xV1h1N0c0RkVoTnYyZGhqazMvWWl0VW1vMDVOWDZMQldEVzdGS0FBPT0K"
+    }
+  }
+}
