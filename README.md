@@ -5,7 +5,7 @@ Public Windows downloads and automatic-update metadata for Brandflowr's desktop 
 | Application | Release channel | Availability |
 | --- | --- | --- |
 | CSV Studio | Stable preview | [Download 0.2.2 for Windows x64](https://github.com/brandflowr/microWare-distribution/releases/download/com.microware.csvstudio-v0.2.2/installer.exe) · [Release details](https://github.com/brandflowr/microWare-distribution/releases/tag/com.microware.csvstudio-v0.2.2) |
-| microWare Control | Stable preview | First signed release is being verified. |
+| microWare Control | Stable preview | [Download 0.2.3 for Windows x64](https://github.com/brandflowr/microWare-distribution/releases/download/com.microware.control-v0.2.3/installer.exe) · [Release details](https://github.com/brandflowr/microWare-distribution/releases/tag/com.microware.control-v0.2.3) |
 | Genlock Studio | Stable preview, major version 1 | Release verification in progress. Existing Genlock licensing applies. |
 
 Each application has its own updater signing key and channel. Download links point to versioned release assets; installed applications verify signatures and versions before accepting updates. Releases are promoted only after their public downloads are checked.
