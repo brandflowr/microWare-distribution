@@ -4,7 +4,7 @@ Public Windows downloads and automatic-update metadata for Brandflowr's desktop 
 
 | Application | Release channel | Availability |
 | --- | --- | --- |
-| CSV Studio | Stable preview | First signed release is being verified. |
+| CSV Studio | Stable preview | [Download 0.2.2 for Windows x64](https://github.com/brandflowr/microWare-distribution/releases/download/com.microware.csvstudio-v0.2.2/installer.exe) · [Release details](https://github.com/brandflowr/microWare-distribution/releases/tag/com.microware.csvstudio-v0.2.2) |
 | microWare Control | Stable preview | First signed release is being verified. |
 | Genlock Studio | Stable preview, major version 1 | Release verification in progress. Existing Genlock licensing applies. |
 
@@ -13,6 +13,10 @@ Each application has its own updater signing key and channel. Download links poi
 These initial Windows builds do not have an Authenticode publisher certificate. Updater signatures and Windows publisher signing serve different purposes; Windows may identify the installer publisher as unknown.
 
 Automatic updates download while the app is open and install on the next launch. Older manually updated builds need one installation of an update-enabled release first. User workspaces remain local.
+
+Save your work and close the application before running an installer manually. An upgrade refuses to replace an app that is still open. If an automatic installation does not finish, the existing app remains available and the downloaded update can be retried from its update controls.
+
+CSV Studio is a local CSV cleanup tool. Genlock Studio keeps its existing activation and licensing requirements. microWare Control is the developer dashboard: it connects local source checkouts and uses their Node.js/Rust build tools and the existing GitHub CLI session to run checks, build installers, and publish releases. Downloading Control does not provide access to private source repositories or release signing keys.
 
 ## Update channels
 
