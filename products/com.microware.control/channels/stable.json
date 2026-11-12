@@ -1,0 +1,10 @@
+{
+  "version": "0.2.3",
+  "notes": "microWare Control 0.2.3 — Windows preview. This installer is not publisher signed.",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/brandflowr/microWare-distribution/releases/download/com.microware.control-v0.2.3/installer.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcHRsUEN1TnJCcGVBNXFMWWtGaDNuWEdoT0Z4WDQwY2w0bkpwcHFLT1VXSmRtOHFCNzhocnNuRlV2a1hNNWxSeFZLcmVkZm1ZajFSb2lTRDR6djladno1SGNjam5wVXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDUxOTI2CWZpbGU6bWljcm9XYXJlIENvbnRyb2xfMC4yLjNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi4zClZwaUJWVURjYTNsUUNCTStNV0JLd0g0YW9uYzNWZlhFVmk1RWVneS9WWDgyOHNjTVlaZ240NUhMMUU3Mmd5UU5GSGlNeHUxdzNoWmdycmR1SVNIZEFBPT0K"
+    }
+  }
+}
